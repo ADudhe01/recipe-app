@@ -1,5 +1,9 @@
 import styles from "./Nav.module.css";
 
 export default function Nav() {
-  return <div className={styles.nav}>🍔 FoodApp</div>;
+  return (
+    <nav className={styles.nav}>
+      <h1 className={styles.appName}>🍔 FoodApp</h1>
+    </nav>
+  );
 }

@@ -18,6 +18,7 @@ export default function FoodDetails({ foodId }) {
     }
     fetchFood();
   }, [foodId]);
+
   return (
     <div>
       <div className={styles.recipeCard}>
