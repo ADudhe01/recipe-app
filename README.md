@@ -80,4 +80,4 @@ This project is for educational/demo purposes.
 
 ---
 
-Made with ❤️ using React and
+Made with ❤️ using React
